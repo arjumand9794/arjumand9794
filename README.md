@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Arjumand+Mohiuddin;DevOps+Engineer+with+4%2B+Years+Experience;AWS+%7C+Azure+%7C+GCP;CI%2FCD+%7C+Docker+%7C+Kubernetes;Automation+%7C+Reliability+%7C+Scalability" />
 </p>
 
----
 
 ## 🔥 Tech Stack (ALL Animated + Clickable)
 
@@ -25,7 +24,6 @@
   </a>
 </p>
 
----
 
 ### 🔁 CI/CD & DevOps Tools
 <p>
@@ -40,7 +38,7 @@
   </a>
 </p>
 
----
+
 
 ### 🐳 Containers & Orchestration
 <p>
@@ -55,7 +53,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠 Infrastructure & Automation
 <p>
@@ -70,7 +68,7 @@
   </a>
 </p>
 
----
+
 
 ## 🏆 Experience Highlights (4+ Years)
 
@@ -81,7 +79,7 @@
 - ✅ Reduced manual work by 60%
 - ✅ Dev / QA / UAT / Prod handling
 
----
+
 
 ## 🤝 Connect With Me
 <p>
@@ -93,7 +91,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <b>Always learning. Always automating. 🚀</b>
