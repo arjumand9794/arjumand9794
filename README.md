@@ -1,16 +1,33 @@
-## Hi there 👋
-
-<!--
-**arjumand9794/arjumand9794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :sunglasses: Hey! Nice to see you. :wave:
+## :male-technologist: Waseem Akram
+**DevOps Engineer (Learner)** :flag-in:
+---
+## :brain: About Me
+- :computer: Passionate about Cloud & DevOps
+- :penguin: Linux user
+- :wrench: CI/CD with Jenkins
+- :cloud: Interested in AWS & Automation
+- :rocket: Learning DevOps step by step
+---
+## :zap: Tech Stack :brain:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,git,github,githubactions,jenkins,aws,gcp,azure,docker,kubernetes,terraform,ansible,bash,python,go,nginx,apache,maven,gradle,sonarqube,prometheus,grafana,postgres,mysql,mongodb,redis,nodejs,spring,selenium,vscode,linux&theme=dark" />
+</p>
+---
+## :wrench: What I Do
+- Build CI/CD pipelines
+- Practice Linux & Git daily
+- Explore cloud services
+- Learn infrastructure automation
+---
+## :handshake: Looking For
+- DevOps learning opportunities
+- Hands-on projects
+- Collaboration with learners
+---
+## :sparkles: Quote I Live By
+> *“Automate what can be automated.”*
+---
+<p align="center">
+  <i>Always learning, always building :zap:</i>
+</p>
