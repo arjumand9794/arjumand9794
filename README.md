@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🔥 DevOps Enthusiast with hands-on experience in **CI/CD, Docker, Cloud & Automation**
-- 🏢 Working at **Wipro**
+- 🏢 Worked at **Wipro**
 - ☁️ Strong interest in **AWS Cloud & Infrastructure Automation**
 - ⚡ Passionate about building real-world DevOps projects and pipelines
 - 📌 Goal: Become a **Cloud DevOps Engineer / Site Reliability Engineer**
