@@ -32,6 +32,9 @@
   <a href="https://github.com/arjumand9794">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://arjumand9794.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -39,7 +42,6 @@
 ## 🛠️ Tech Stack (DevOps Icons)
 
 <p align="center">
-
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" width="80" height="80"/>
   </a>
@@ -91,7 +93,6 @@
   <a href="https://grafana.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=grafana" width="80" height="80"/>
   </a>
-
 </p>
 
 ---
@@ -114,12 +115,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjumand9794&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjumand9794&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arjumand9794&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjumand9794&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjumand9794&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=arjumand9794&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -127,7 +128,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjumand9794&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arjumand9794&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
@@ -135,7 +136,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/arjumand9794/arjumand9794/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/arjumand9794/arjumand9794/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
