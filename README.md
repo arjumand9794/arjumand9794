@@ -36,52 +36,60 @@
 
 ---
 
-## 🛠️ Tech Stack (Animated Moving Icons)
+## 🛠️ Tech Stack (DevOps Icons)
 
 <p align="center">
 
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=aws" width="80" height="80"/>
   </a>
 
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=azure" width="80" height="80"/>
   </a>
 
   <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=gcp" width="80" height="80"/>
   </a>
 
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=jenkins" width="80" height="80"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=docker" width="80" height="80"/>
   </a>
 
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="80" height="80"/>
   </a>
 
   <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://media.giphy.com/media/3o7btNRptqBgLSKR2w/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=terraform" width="80" height="80"/>
   </a>
 
   <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=ansible" width="80" height="80"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=git" width="80" height="80"/>
   </a>
 
   <a href="https://github.com/" target="_blank">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=github" width="80" height="80"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://media.giphy.com/media/3o7btNRptqBgLSKR2w/giphy.gif" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="80" height="80"/>
+  </a>
+
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prometheus" width="80" height="80"/>
+  </a>
+
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=grafana" width="80" height="80"/>
   </a>
 
 </p>
