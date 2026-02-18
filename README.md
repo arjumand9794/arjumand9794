@@ -113,35 +113,40 @@
 ---
 
 ## 📊 GitHub Analytics
+<h2>📈 Growth & Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjumand9794&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjumand9794&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arjumand9794&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjumand9794&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🚀 Consistency Streak (DevOps Journey)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjumand9794&show_icons=true&theme=tokyonight" />
-</p>
+🔥 I stay consistent by practicing DevOps daily through hands-on labs and real-time tasks.
 
+✅ Daily Practice Includes:
+- ⚙️ Writing CI/CD pipelines (Jenkins / GitHub Actions)
+- 🐳 Building & pushing Docker images
+- ☸️ Kubernetes deployments (Pods, Deployments, Services)
+- 🛠️ Terraform IaC practice (AWS resources automation)
+- 📦 Ansible automation & playbooks
+- 📊 Monitoring with Prometheus + Grafana
+- 🔐 Linux troubleshooting & scripting
 
+📌 Goal: **Become a highly skilled Cloud DevOps / SRE Engineer with strong automation mindset.**
 
 ---
-
-## 🐍 Contribution Snake Animation
+<h2>🏆 Achievements & Performance</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arjumand9794/arjumand9794/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjumand9794&theme=tokyonight" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjumand9794&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arjumand9794&theme=tokyonight&utcOffset=5.5" height="180"/>
+</p
 
 ---
 
