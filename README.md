@@ -128,16 +128,20 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjumand9794&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjumand9794&show_icons=true&theme=tokyonight" />
 </p>
+
+
 
 ---
 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arjumand9794/arjumand9794/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/arjumand9794/arjumand9794/output/github-contribution-grid-snake.svg" />
 </p>
+
+
 
 ---
 
